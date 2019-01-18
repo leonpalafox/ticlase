@@ -59,46 +59,46 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Temario
 
 1. Conceptos Básicos
-  1. Introducción a la Ciencia de Datos
-  2. Aplicaciones y soluciones
-  3. Elementos de la ciencia de datos
-  4. Machine Learning, Big Data, Business Intelligence
-  5. Definiciones básicas.
-  6. Ciclo de vida de un proyecto de ciencia de datos
+    1. Introducción a la Ciencia de Datos
+    2. Aplicaciones y soluciones
+    3. Elementos de la ciencia de datos
+    4. Machine Learning, Big Data, Business Intelligence
+    5. Definiciones básicas.
+    6. Ciclo de vida de un proyecto de ciencia de datos
 2. Entendimiento del negocio
-  1. Creación de Valor
-  2. Cash Flow, Revenue
-  3. Análisis de Costos
-  4. Entendimiento del mercado
-  5. Oferta, competencia
-  6. Entendimiento del problema
+    1. Creación de Valor
+    2. Cash Flow, Revenue
+    3. Análisis de Costos
+    4. Entendimiento del mercado
+    5. Oferta, competencia
+    6. Entendimiento del problema
 3. Recopilación de datos y centralización
-  1. Bases de datos centralizadas.
-  2. Data Warehouse, Data Lake
-  3. Silos de datos
-  4. Extract, Transform and Load
-  5. Limpieza de los datos
-  6. Discriminación de datos
+    1. Bases de datos centralizadas.
+    2. Data Warehouse, Data Lake
+    3. Silos de datos
+    4. Extract, Transform and Load
+    5. Limpieza de los datos
+    6. Discriminación de datos
 4. Exploración y presentación
-  1. Análisis exploratorio de los datos
-  2. Tipos de gráfica
-  3. Estadísticas básicas
-  4. Presentación de datos y resultados
-  5. Storytelling
-  6. Presentación de gráficas
+    1. Análisis exploratorio de los datos
+    2. Tipos de gráfica
+    3. Estadísticas básicas
+    4. Presentación de datos y resultados
+    5. Storytelling
+    6. Presentación de gráficas
 5. Modelos de Aprendizaje Máquina
-  1. Introducción
-  2. Algoritmos Supervisados y no Supervisados
-  3. Clasificadores
-  4. Reducción de dimensionalidades
-  5. Procesamiento de Lenguaje Natural
-  6. Modelos Bayesianos
+    1. Introducción
+    2. Algoritmos Supervisados y no Supervisados
+    3. Clasificadores
+    4. Reducción de dimensionalidades
+    5. Procesamiento de Lenguaje Natural
+    6. Modelos Bayesianos
 6. Implementación
-  1. Pruebas de validación
-  2. Modelos en tiempo real
-  3. Pruebas de stress
-  4. Calendarios de re-entrenamiento
-  5. Big Data (?)
+    1. Pruebas de validación
+    2. Modelos en tiempo real
+    3. Pruebas de stress
+    4. Calendarios de re-entrenamiento
+    5. Big Data (?)
 
 
 
