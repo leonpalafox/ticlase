@@ -108,6 +108,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_1_2019.pdf)
+- [Clase 2 - Intro](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_2_2019.pptx)
+- [Clase 3 - Intro/Datos](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_3_2019.pptx)
 
 
 # Ejercicios en Python
