@@ -123,6 +123,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 1. Encontrar una industría y realizar un análisis de valor, modelo de negocios y problemáticas.
 
+# Sets de datos:
+- [Ventas de autos en Noruega]('https://raw.githubusercontent.com/leonpalafox/ticlase/master/Resources/Datasets/newcarsalesnorway/norway_new_car_sales_by_model.csv')
+
 
 # Forma de Evaluación
 
