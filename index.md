@@ -115,6 +115,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 4 - CRISPDM](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_4_2019.pptx)
 - [Clase 6 - Presentacion](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_6_2019.pptx)
 - [Clase 7 - Examen/Presentacion](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_7_2019.pptx)
+- [Clase 8 - 3 Minute Story](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_8_2019.pptx)
 
 # Ejercicios en Python
 
