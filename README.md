@@ -114,6 +114,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 6 - Presentacion](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_6_2019.pptx)
 - [Clase 7 - Examen/Presentacion](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_7_2019.pptx)
 - [Clase 8 - 3 Minute Story](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_8_2019.pptx)
+- [Clase 9 - ML - Intro](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_9_2019.pptx)
+- [Clase 10 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_10_2019.pptx)
 
 
 
