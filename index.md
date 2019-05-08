@@ -118,6 +118,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 8 - 3 Minute Story](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_8_2019.pptx)
 - [Clase 9 - ML - Intro](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_9_2019.pptx)
 - [Clase 10 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_10_2019.pptx)
+- [Clase 11 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_11_2019.pptx)
+- [Clase 12 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_12_2019.pptx)
+- [Clase 14 - ML - Keras](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_14_2019_tensorflowkeras.pptx)
 
 # Ejercicios en Python
 
