@@ -121,6 +121,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 11 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_11_2019.pptx)
 - [Clase 12 - ML - Probability](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_12_2019.pptx)
 - [Clase 14 - ML - Keras](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_14_2019_tensorflowkeras.pptx)
+- [Clase 15 - ML - Keras/CNN](https://github.com/leonpalafox/ticlase/blob/master/Slides/Clase_15_2019_tensorflowkeras.pptx)
 
 # Ejercicios en Python
 
